@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 - Pinned dependency versions for reproducibility
 - Fixed minor edge case in input handling
 - Ran linter, applied auto-fixes
+
+## 2026-05-06
+- Noted known limitation in docs
+- Added basic retry logic for network requests
